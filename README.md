@@ -1,6 +1,6 @@
 ## algorithms-madeai
 
-Homework of _《Algorithms, Part I》_ from Coursera.
+Assignment of _《Algorithms, Part I》_ from Coursera.
 
 ### Usage
 
